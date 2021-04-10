@@ -10,9 +10,9 @@ O projeto consiste em consumir a API da Marvel e apresentar os quadrinhos, com a
 ## Exemplo
 Parte 1
 
-![alt-text](marvel_app_movie_part1.gif)
+![alt-text](lib/app/shared/gifs/examples/marvel_app_video_part1.gif)
 
 Parte 2
 
-![alt-text](marvel_app_movie_part2.gif)
+![alt-text](lib/app/shared/gifs/examples/marvel_app_movie_part2.gif)
 
