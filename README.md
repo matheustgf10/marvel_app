@@ -8,6 +8,8 @@ O projeto consiste em consumir a API da Marvel e apresentar os quadrinhos, com a
     - Redirecionar para loja de quadrinhos no Google Maps
 
 ## Exemplo
+*Os exemplos a seguir estão sendo rodados em modo debug, para melhor performace o app deve ser rodados em modo profile*
+
 Parte 1
 
 ![alt-text](lib/app/shared/gifs/examples/marvel_app_video_part1.gif)
